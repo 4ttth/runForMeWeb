@@ -4,7 +4,9 @@
 
 ## Project Description
  Final Project for Introduction to Basic Programming in Web (CYB-201)
+ 
  Submitted to Ms. Raquel Rivera 
+ 
  Group members:
  - DIZON. Raji Miguel Z.
  - GARCOA. Justin Carl C.
@@ -15,15 +17,15 @@
 ## Figma Link: [https://www.figma.com/design/nDfdYK7cDaDdPgkM8i17uO/Run-For-Me-Mockup?](https://www.figma.com/design/nDfdYK7cDaDdPgkM8i17uO/Run-For-Me-Mockup?)
 
 # Steps on how to recreate on your local machine:
-## Install [XAMPP](https://www.apachefriends.org/download.html)
+## - Install [XAMPP](https://www.apachefriends.org/download.html)
 
-## Initialize XAMPP on this order:
+## - Initialize XAMPP on this order:
 > MySQL
 > Apache
 _Locate the **htdocs** folder within your XAMPP configuration, delete all **htdocs** file & directory contents then paste the runForMeWeb files & directories on your **htdocs** folder_
 
-## SQL Instructions
+## - SQL Instructions
 > Create a new database named **'runforme'**
 > Import _runForMeWeb/sql/runforme.sql_ on the **'runforme'** database
 
-## You should be able to access the website on localhost/index.php
+## - You should be able to access the website on localhost/index.php
