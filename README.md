@@ -5,6 +5,7 @@
 - MySQL
 - Apache
 
-# Import runForMeWeb/sql/runforme.sql on localhost/phpmyadmin
+# SQL Instructions
+> Import runForMeWeb/sql/runforme.sql on localhost/phpmyadmin
 
-Open localhost/index.php for landing page.
+> Open localhost/index.php for landing page.
