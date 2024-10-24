@@ -1,0 +1,70 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(/fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: SuezOne;
+    src: url(/fonts/SuezOne-Regular.ttf);
+}
+
+body{
+    margin-top: 12vh;
+}
+
+.navbar{
+    z-index: 1030;
+}
+
+.hero{
+    background-image: url('/images/hero.png');
+    background-size: cover;
+    background-position: center;
+    height: 88vh;
+    color: white;
+
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); 
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+h1{
+    font-family: Montserrat;
+}
+
+h3 h4 h5{
+    font-weight: 50;
+}
+
+.eventPic{
+    height: 350px;
+
+    border-radius: 10%;
+}
+
+p{
+    font-size: 24px;
+}
+
+.events_held p{
+    font-size: 20px;
+}
+
+.card-text{
+    font-size: 18px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+.eventPic{
+    height: 10px;
+}    
+}
