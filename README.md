@@ -13,7 +13,8 @@
  - OLPINDO, Francisco IV V.
  - YULIANTO, Arvin E.
 
-## Podcast & Demonstration Link: 
+## Podcast & Demonstration Link: [https://youtu.be/0HwEHoVtjzw](https://youtu.be/0HwEHoVtjzw)
+## Podcast & Demonstration Link (OneDrive): [Podcast & Demonstration Link (OneDrive)](https://hauph-my.sharepoint.com/:v:/g/personal/fvolpindo_student_hau_edu_ph/EcohapCLCJdLkKe2pe0ezREBZ7mwkFCDlW60oiNFuvAxpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZIzAe3) 
 ## Figma Link: [https://www.figma.com/design/nDfdYK7cDaDdPgkM8i17uO/Run-For-Me-Mockup?](https://www.figma.com/design/nDfdYK7cDaDdPgkM8i17uO/Run-For-Me-Mockup?)
 
 # Steps on how to recreate on your local machine:
@@ -28,4 +29,4 @@ _Locate the **htdocs** folder within your XAMPP configuration, delete all **htdo
 > Create a new database named **'runforme'**
 > Import _runForMeWeb/sql/runforme.sql_ on the **'runforme'** database
 
-## - You should be able to access the website on localhost/index.php
+## You should now be able to access the website via localhost/index.php
